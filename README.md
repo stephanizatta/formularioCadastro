@@ -22,5 +22,7 @@ Para que seja possível trabalhar no projeto, é necessário que você tenha ins
 3. Clone este projeto em seu VSCode. <br><br>
 4. No bash do VSCode insira o comando node app.js, em seguida abra o seu localhost:8080.
 
-<h3> OBS: a cada atualização feita no código feche o bash, em seguida abra um novo bash, insira novamente o comando node app.js e recarregue a página do localhsot. Não consegui automatizar essa parte :(
+<h3> OBS: a cada atualização feita no código feche o bash, em seguida abra um novo bash, insira novamente o comando node app.js e recarregue a página do localhsot. Não consegui automatizar essa parte :( <br><br>
+
+Ajudará com a conexão do banco: https://www.youtube.com/watch?v=5JnPd_YckQw&t=4s
 
