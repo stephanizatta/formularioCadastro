@@ -2,8 +2,9 @@ const express = require("express");
 
 const app = express();
 
-app.get("/", function(res){
+app.get("/", function(req, res){
     res.sendFile(__dirname + "/src/index.html");
 });
 
-app.listen(8080); 
+//localhost:8080
+app.listen(8080);
